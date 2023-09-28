@@ -63,8 +63,8 @@ Buradan geçerek, cüzdanı bağlama discord doğrulama gibi birçok adım var. 
 
 ## Subsquid Ödül Detayları
 * Node çalıştıranlar dashboard ve performanslarına göre seçilecek (max. sayı 500) en iyi performans gösteren 133 kişi ödül almaya hak kazanacak.
-* Diğer testnet kullanıcıları (dashboard üzerinden görevleri yukarıda söyledim.) ise sıralamaya girecek ve ilk 4000 kişi ödül almaya hak kazanacak.
-* Testnet sürecinin tamaamı 4 ay olması planlanıyor.
+* Diğer testnet kullanıcıları (dashboard üzerinden ulaşıyorsunuz. Görevleri yukarıda söyledim.) ise sıralamaya girecek ve ilk 4000 kişi ödül almaya hak kazanacak.
+* Testnet sürecinin tamamı 4 ay olması planlanıyor.
 * Toplam ödül ise arzın %2'si yani 26.000.000 SQD olacak.
 
 
