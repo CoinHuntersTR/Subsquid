@@ -20,7 +20,10 @@ buradaki https ile başlayan RPC adresini kopyalıyoruz.
 ## VPS sunucusunda yapılacak adımlar.
 
 * winSCP yada mobaxtermm ile sunucumuzdaki dosyalara ulaşıyoruz.
+
+
 ![Ekran görüntüsü 2023-09-28 224625](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/6fa7b53a-1509-4925-8da3-27ace5037d78)
+
 
 nodeismin/src/processor.ts dosyasını ister bilgisayarınıza indirin. ister içinde düzenleyin.
 
