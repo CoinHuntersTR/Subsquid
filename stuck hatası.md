@@ -38,4 +38,4 @@ Yukarıdaki adımları tamamladıysak. Aşağıdaki kodu terminale yazıp enter 
 ```
 sqd deploy --org nodeismin ./nodeismin
 ```
-*nodeismin yazan yere subsquid kurarken yazdığın ismi ekliyorsun
+* nodeismin yazan yere subsquid kurarken yazdığın ismi ekliyorsun
