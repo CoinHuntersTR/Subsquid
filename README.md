@@ -53,10 +53,19 @@ Tüm adımları doğru şekilde yaptıysanız. en sonda;
 
 ![Ekran görüntüsü 2023-09-28 153454](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/82e96f78-d1d0-43c1-b0a2-3bf16e72d719)
 
+
 bu şekilde sync olacaksınız. Dashboard diğer bölümüne de gitmeyi unutmayın.
+
 ![Ekran görüntüsü 2023-09-28 153754](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/52c3e6c1-e0af-4449-8f12-d9d70569a9ec)
 
+
 Buradan geçerek, cüzdanı bağlama discord doğrulama gibi birçok adım var. Bunlarda puan kazanmanızı ve ödül havuzundan pay almanızı sağlayacak. Mutlaka yapın.
+
+## Subsquid Ödül Detayları
+* Node çalıştıranlar dashboard ve performanslarına göre seçilecek (max. sayı 500) en iyi performans gösteren 133 kişi ödül almaya hak kazanacak.
+* Diğer testnet kullanıcıları (dashboard üzerinden görevleri yukarıda söyledim.) ise sıralamaya girecek ve ilk 4000 kişi ödül almaya hak kazanacak.
+* Testnet sürecinin tamaamı 4 ay olması planlanıyor.
+* Toplam ödül ise arzın %2'si yani 26.000.000 SQD olacak.
 
 
 
