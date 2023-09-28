@@ -1,5 +1,7 @@
-<h1 align="center"> Subsquid | Ödüllü Testneti 
-  
+# Subsquid | Ödüllü Testneti 
+
+
+![image](https://user-images.githubusercontent.com/111747226/271275647-795f18a0-31d1-4d59-adf7-2a6d57438359.jpg)
 
 
 ## Sistem gereksinimleri:
@@ -7,7 +9,10 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Opside  | 4          | 8         | 160  |
 
-  
+# Kurulum Öncesi Yapılacaklar;
+Ödüllü testnet detayları ve diğer adımlar için [BURADAKİ](https://blog.subsquid.io/introducing-the-subsquid-network-testnet-app/) rehberden detaylarına bakabilirsiniz.
+1. Adımda Coinlist hesabınız ile giriş yaparak Katılım sayfasına ulaşabilirsiniz.
+   [COINLIST](https://coinlist.co/subsquid-testnet) hesap mailiniz ile testnete katılacağınız mail adresinin aynı olmasına özen gösterin. Eğer coinlist hesabınızda yok ise [BURADAN](https://coinlist.co/clt?referral_code=J7XEET) girip hızlıca kaydınızı yapın ve KYC işleminizi halledin.
 
 # Kurulum
 
