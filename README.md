@@ -11,8 +11,12 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 
 # Kurulum Öncesi Yapılacaklar;
 Ödüllü testnet detayları ve diğer adımlar için [BURADAKİ](https://blog.subsquid.io/introducing-the-subsquid-network-testnet-app/) rehberden detaylarına bakabilirsiniz.
-1. Adımda Coinlist hesabınız ile giriş yaparak Katılım sayfasına ulaşabilirsiniz.
-   [COINLIST](https://coinlist.co/subsquid-testnet) hesap mailiniz ile testnete katılacağınız mail adresinin aynı olmasına özen gösterin. Eğer coinlist hesabınızda yok ise [BURADAN](https://coinlist.co/clt?referral_code=J7XEET) girip hızlıca kaydınızı yapın ve KYC işleminizi halledin.
+  ### 1. Adımda Coinlist hesabınız ile giriş yaparak Katılım sayfasına ulaşabilirsiniz. [COINLIST](https://coinlist.co/subsquid-testnet) hesap mailiniz ile testnete katılacağınız mail adresinin aynı olmasına özen gösterin. Eğer coinlist hesabınızda yok ise [BURADAN](https://coinlist.co/clt?referral_code=J7XEET) girip hızlıca kaydınızı yapın ve KYC işleminizi halledin.
+### 2. [BURADAN](https://subsquid.deform.cc/testnetnodeapplication/) girip formu doldurun. Formda istediği discord, telegram ve cüzdan bağlantılarını halledebilirsiniz. Cüzdan olarak test cüzdanınızı bağlamaya özen gösterin. Soruların cevaplarına gelince hepsine B şıkkını işaretleyebilirsiniz. En alt bölümde farklı cüzdan adresleri talep edecek. Metamask içerisinde cüzdan oluştururak farklı adresler verebilirsiniz.
+### 3. [BURADAN](https://app.subsquid.io/squids/) dashboard sayfasına ulaşıyoruz ve coinlist ile aynı maille buraya kayıt oluyoruz. Sonrasında mail adresinize gelen doğrulamayı yapıyoruz.
+
+### !! Yukarıdaki adımları tamamladıktan sonra aşağıdaki adımlara geçebiliriz.
+
 
 # Kurulum
 
