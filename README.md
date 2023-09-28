@@ -47,3 +47,16 @@ sudo apt-get install -y nodejs
 ![photo_2023-09-28_15-29-18](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/f320e9d8-e000-4b6b-838b-6eea63910840)
 
 Yukarıdaki resimde olduğu gibi sizde de komut sayfası gelecek buradaki komutları sırasıyla sunucuya giriyoruz.
+* Set up your squid bölümüne küçük harflerle istediğiniz bir isim yazıyorsunuz. 
+* Bu ismi verdikten sonra altta oluşan komutları sırasıyla sunucuya giriyorsunuz.
+Tüm adımları doğru şekilde yaptıysanız. en sonda;
+
+![Ekran görüntüsü 2023-09-28 153454](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/82e96f78-d1d0-43c1-b0a2-3bf16e72d719)
+
+bu şekilde sync olacaksınız. Dashboard diğer bölümüne de gitmeyi unutmayın.
+![Ekran görüntüsü 2023-09-28 153754](https://github.com/CoinHuntersTR/Subsquid/assets/111747226/52c3e6c1-e0af-4449-8f12-d9d70569a9ec)
+
+Buradan geçerek, cüzdanı bağlama discord doğrulama gibi birçok adım var. Bunlarda puan kazanmanızı ve ödül havuzundan pay almanızı sağlayacak. Mutlaka yapın.
+
+
+
